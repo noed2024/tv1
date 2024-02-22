@@ -38,11 +38,11 @@ https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", DPELICULA PLUS
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PELICULAS", GOLDEN
+#EXTINF:-1 group-title="PELICULAS", GOLDEN 1
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PELICULAS", GOLDEN
+#EXTINF:-1 group-title="PELICULAS", GOLDEN 2
 https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PELICULAS", GOLDEN
+#EXTINF:-1 group-title="PELICULAS", GOLDEN 3
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS", GOLDEN PLUS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
